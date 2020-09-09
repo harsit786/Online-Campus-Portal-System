@@ -1,4 +1,4 @@
-# Online-Course-Portal
+# Online-Course-Portal-System
 Campus portal system designed for student registeration for course submitting the assignment uploaded by faculty. 
 It has three unit Admin,Faculty and student, Faculty access dashboard and see the course alloted and upload assignment, 
 Student send request for course and see the coursesenroll and submit assignment, 
@@ -28,7 +28,7 @@ MYSQL
 - Click the "New" link on the upper left corner (under recent tables)
 - Fill out the "Database Name" field with "campus".
 - Click the "Create" button
-- <a href="https://github.com/arvindnegi1/Online-Course-Portal/blob/master/campus.sql">Download sql file of project from here</a>
+- <a href="https://github.com/harsit786/Online-Course-Portal-System/blob/master/campus.sql">Download sql file of project from here</a>
 - go to import and select downloaded campus.sql and click on go.
 - all the tables will be imported.
 
@@ -36,11 +36,11 @@ MYSQL
 - Go to XAMPP server directory
 - go to htdocs
 - eg.    "C:\xampp\htdocs\"
-- place the online-course-portal in htdocs
+- place the online-course-portal-system in htdocs
 #### For admin dashboard access
-- open browser and type in localhost/online-course-portal/main.html
+- open browser and type in localhost/online-course-portal-system/main.html
 #### For student dashboard access
-- open browser and type in localhost/online-course-portal/student/
+- open browser and type in localhost/online-course-portal-system/student/
 #### For faculty dashboard access
-- open browser and type in localhost/online-course-portal/faculty/
+- open browser and type in localhost/online-course-portal-system/faculty/
  
